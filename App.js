@@ -16,6 +16,14 @@ export default class App extends React.Component {
   constructor() {
     super();
     this.state = {
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
+      //PURPLE GUY ESTEVE AQUI
       text: '',
       chunks: [],
       phonicSounds: [],
